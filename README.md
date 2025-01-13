@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mautsa Jayden
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on any projects 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love cats and offline video games 
+- ⚡ Fun fact : I love anime 
